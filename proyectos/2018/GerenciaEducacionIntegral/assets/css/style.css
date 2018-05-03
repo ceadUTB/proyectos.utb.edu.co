@@ -1,0 +1,64 @@
+.bg-green {
+    background-color: #82b745;
+}
+
+.bg-blue {
+    background-color: #2a3886;
+}
+
+h4,
+h5,
+h6 {
+    color: #82b745;
+}
+
+h4 a {
+    color: #155724;
+}
+
+h4 a:hover {
+    color: #155724 !important;
+}
+
+.header {
+    padding: 0px;
+}
+
+.contenido ul li::before {
+    content: "•";
+    color: #82b745;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em
+}
+
+.bg-blue ul {
+    width: 100%;
+    text-align: center;
+}
+
+.bg-blue ul li {
+    color: white;
+    display: inline-block;
+    margin-right: 5em;
+}
+
+.sedes ul {
+    width: 100%;
+    text-align: center;
+}
+
+.sedes ul li {
+    color: white;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.informes {
+    color: #2a3886;
+    font-weight: bold;
+}
+
+.footer a {
+    color: white;
+}

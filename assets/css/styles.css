@@ -1,0 +1,16 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
+
+.title-container{
+  background-image: url('../img/bg.jpg');
+  height: 200px;
+  background-size: 100%;
+
+}
+
+
+
+footer{
+  background-color: #34347F;
+
+}
