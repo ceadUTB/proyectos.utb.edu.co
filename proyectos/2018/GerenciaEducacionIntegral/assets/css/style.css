@@ -1,9 +1,11 @@
-body{
-  background-color: #cfcfd1ff;
+body {
+    background-color: #cfcfd1ff;
 }
-.container{
-  background-color: #ffffff;
+
+.container {
+    background-color: #ffffff;
 }
+
 .bg-green {
     background-color: #82b745;
 }
@@ -16,14 +18,6 @@ h4,
 h5,
 h6 {
     color: #82b745;
-}
-
-h4 a {
-    color: #155724;
-}
-
-h4 a:hover {
-    color: #155724 !important;
 }
 
 .header {
